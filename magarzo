@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head><title>Magarzo's Gallery</title></head>
+<body>
+ <center><h1>MagarzoJM's Photo Gallery</h1></center>
+   <center><h2>List of Photos</h2>
+   <p> <a href="gallery.html">Photo 1</a></p>
+   <p> <a href="photo2.html">Photo 2</a></p>
+   <p> <a href="photo3.html">Photo 3</a></p>
+   </center>
+   
+
+
+</body>
+</html>
