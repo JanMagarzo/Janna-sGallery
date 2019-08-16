@@ -18,8 +18,8 @@ password" value=>
 
 <center><button type="button" onclick="">Signin</button></center>
 
-<center><p> <a href="">Reset Password</a></p><center>
-<center><p> <a href="">Sign Up</a></p><center>
+<center><p> <a href="resetpass.php">Reset Password</a></p><center>
+<center><p> <a href="signup.php">Sign Up</a></p><center>
 
 </body>
 
