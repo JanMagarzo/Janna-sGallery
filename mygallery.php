@@ -10,7 +10,7 @@
    </center>
   
  <br> <br>
- <a href ="mygallery.php"><button type= "submit">Log-out</button></a>
+ <a href ="index.php"><button type= "submit">Log-out</button></a>
 
 </body>
 </html>
