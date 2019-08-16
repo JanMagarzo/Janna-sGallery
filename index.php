@@ -16,6 +16,7 @@ username" value=>
 password" value=>
 </center>
 
+ <br> <br>
  <center><a href="mygallery.php"><button type="submit">Sign-in</button></a></center>
 
 <center><p> <a href="resetpass.php">Reset Password</a></p><center>
