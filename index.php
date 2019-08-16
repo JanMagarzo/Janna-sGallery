@@ -12,11 +12,11 @@
 username" value=>
 </center>
 
- <center><p>password:</p><input type="text" name="
+ <center><p>password:</p><input type="password" name="
 password" value=>
 </center>
 
-<center><button type="button" onclick="">Signin</button></center>
+ <center><a href="mygallery.php><button type="button" onclick="">Sign-in</button></a></center>
 
 <center><p> <a href="resetpass.php">Reset Password</a></p><center>
 <center><p> <a href="signup.php">Sign Up</a></p><center>
