@@ -10,7 +10,9 @@
    </center>
   
  <br> <br>
+ <center>
  <a href ="index.php"><button type= "submit">Log-out</button></a>
-
+ </center>
+  
 </body>
 </html>
