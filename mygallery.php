@@ -8,8 +8,9 @@
    <p> <a href="photo2.php">Photo 2</a></p>
    <p> <a href="photo3.php">Photo 3</a></p>
    </center>
-   
-<butt
+  
+ <br> <br>
+ <a href ="mygallery.php"><button type= "submit">Log-out</button></a>
 
 </body>
 </html>
