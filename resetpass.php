@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head><title>Reset Password</title></head>
-<body>
+<body>
+
 
 <center>
 <p> <b>email address:<b>
@@ -12,7 +13,7 @@
 <input type="text" name="text"></p>
 </br>
 
-<a href="home.html"><button type="submit">reset password</button></a>
+<a href="index.php"><button type="submit">reset password</button></a>
 </center>
 
 
