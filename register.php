@@ -19,7 +19,7 @@
          <input type="password" name="pass"></p></center>
  </br> 
 
-<center> <a href="home.html"><button type="submit">Register</button></a> </center>
+<center> <a href="mygallery.php"><button type="submit">Register</button></a> </center>
 
 
 
